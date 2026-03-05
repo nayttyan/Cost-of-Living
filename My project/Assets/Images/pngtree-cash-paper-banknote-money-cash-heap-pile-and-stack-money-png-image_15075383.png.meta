@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 835fcccad3caa7f41b63cb580fb35899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4335727060772606444
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_0
+  - first:
+      213: 9192727576747939631
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_1
+  - first:
+      213: -2362526346039085074
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_2
+  - first:
+      213: 4195585749302418407
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_3
+  - first:
+      213: -3331064028716244732
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_4
+  - first:
+      213: 3477616037824943526
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_5
+  - first:
+      213: 8019948600468600256
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_6
+  - first:
+      213: -6307336314598741796
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_7
+  - first:
+      213: 2314133370203144348
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_8
+  - first:
+      213: -5879097660451260048
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_9
+  - first:
+      213: 5392497911277800867
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_10
+  - first:
+      213: 3901012656957906277
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_11
+  - first:
+      213: -610518293112761887
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_12
+  - first:
+      213: -3501431847448238917
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_13
+  - first:
+      213: -7375873305757965655
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_14
+  - first:
+      213: -517644922382679045
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_15
+  - first:
+      213: 1015104148623170256
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_16
+  - first:
+      213: 8816736899487663406
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_17
+  - first:
+      213: 7249772215666642849
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_18
+  - first:
+      213: -1905980142804333344
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_19
+  - first:
+      213: 4390422972649775638
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_20
+  - first:
+      213: 5293928908926726016
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_21
+  - first:
+      213: 547176282755912556
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_22
+  - first:
+      213: -1123876824410751116
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_23
+  - first:
+      213: 3768324464134736978
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_24
+  - first:
+      213: -1929801306475074444
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_25
+  - first:
+      213: -4943843690374684117
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_26
+  - first:
+      213: -2993354744643231215
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_27
+  - first:
+      213: 1473658621176852507
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_28
+  - first:
+      213: -749121685159367376
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_29
+  - first:
+      213: 1627290367557488149
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_30
+  - first:
+      213: -1408911844792227214
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_31
+  - first:
+      213: -6038994195031741354
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_32
+  - first:
+      213: -3309553716015340227
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_33
+  - first:
+      213: 7350621426425418912
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_34
+  - first:
+      213: -3655452351899464679
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_35
+  - first:
+      213: -7897242841766090810
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_36
+  - first:
+      213: -496381465559435057
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_37
+  - first:
+      213: -8618813072817974624
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_38
+  - first:
+      213: -1133238707971018520
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_39
+  - first:
+      213: 3936007494258286222
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_40
+  - first:
+      213: -8727995267547877997
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_41
+  - first:
+      213: 8148663957512501451
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_42
+  - first:
+      213: 2476642635247325984
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_43
+  - first:
+      213: 6444898891473133617
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_44
+  - first:
+      213: 7586541986538559071
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_45
+  - first:
+      213: -7849083720038297568
+    second: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2248
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea99bb53764d3c0800000000000000
+      internalID: -4335727060772606444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2365
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279ff0a601239f70800000000000000
+      internalID: 9192727576747939631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2391
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7b6d33ece963fd0800000000000000
+      internalID: -2362526346039085074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2248
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb9cd38207b93a30800000000000000
+      internalID: 4195585749302418407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_4
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2365
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40169442aeea5c1d0800000000000000
+      internalID: -3331064028716244732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2391
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d1c77c59f24030800000000000000
+      internalID: 3477616037824943526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_6
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2248
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c572d7b2c49c4f60800000000000000
+      internalID: 8019948600468600256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_7
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2365
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ab612a07d778a0800000000000000
+      internalID: -6307336314598741796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2391
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9006d51a047d1020800000000000000
+      internalID: 2314133370203144348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2248
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f8fc93df396ea0800000000000000
+      internalID: -5879097660451260048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_10
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2365
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adcfb5974006da40800000000000000
+      internalID: 5392497911277800867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2391
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d5742d75e232630800000000000000
+      internalID: 3901012656957906277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_12
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2399
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d22ad8d00787f0800000000000000
+      internalID: -610518293112761887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ab9f394a686fc0800000000000000
+      internalID: -3501431847448238917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2345
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a206be42a3a990800000000000000
+      internalID: -7375873305757965655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf388998fa4f0d8f0800000000000000
+      internalID: -517644922382679045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_16
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2345
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da95bc48df561e00800000000000000
+      internalID: 1015104148623170256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e258a0c3f775b5a70800000000000000
+      internalID: 8816736899487663406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_18
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2345
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af8e415b6d5c9460800000000000000
+      internalID: 7249772215666642849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec033f88299c85e0800000000000000
+      internalID: -1905980142804333344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_20
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2345
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122182ae6aedec30800000000000000
+      internalID: 4390422972649775638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2248
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fafb25b40d77940800000000000000
+      internalID: 5293928908926726016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c635f2b1ee5f79700800000000000000
+      internalID: 547176282755912556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2248
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff3b59bff2760f0800000000000000
+      internalID: -1123876824410751116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c4a2b7227cb4430800000000000000
+      internalID: 3768324464134736978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2248
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ce770bfe7f735e0800000000000000
+      internalID: -1929801306475074444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2229227b50f36bb0800000000000000
+      internalID: -4943843690374684117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2248
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126fce18b77576d0800000000000000
+      internalID: -2993354744643231215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10307b45bc737410800000000000000
+      internalID: 1473658621176852507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 2408
+        height: 2129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03da88edbc59a95f0800000000000000
+      internalID: -749121685159367376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_30
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecda0b7fb459610800000000000000
+      internalID: 1627290367557488149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_31
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1797
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa153542a827ce0800000000000000
+      internalID: -1408911844792227214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_32
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cac7c86ce213ca0800000000000000
+      internalID: -6038994195031741354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_33
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1197
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e4d71e6a1212d0800000000000000
+      internalID: -3309553716015340227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_34
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a45678fd37a20660800000000000000
+      internalID: 7350621426425418912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_35
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 595
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8aaf0479354dc0800000000000000
+      internalID: -3655452351899464679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_36
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 119
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7298f0a7b576290800000000000000
+      internalID: -7897242841766090810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_37
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8fd30efaf7c19f0800000000000000
+      internalID: -496381465559435057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a21139bc23d36880800000000000000
+      internalID: -8618813072817974624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03aa5366de540f0800000000000000
+      internalID: -1133238707971018520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5a8056f18f9630800000000000000
+      internalID: 3936007494258286222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_41
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da48c0c8eefd680800000000000000
+      internalID: -8727995267547877997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_42
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 0
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8bf8522bed51170800000000000000
+      internalID: 8148663957512501451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_43
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023118dda5dce5220800000000000000
+      internalID: 2476642635247325984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_44
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a09f2561e07950800000000000000
+      internalID: 6444898891473133617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_45
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f569735ddbfc84960800000000000000
+      internalID: 7586541986538559071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_46
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d0de51f3721390800000000000000
+      internalID: -7849083720038297568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_0: -4335727060772606444
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_1: 9192727576747939631
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_10: 5392497911277800867
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_11: 3901012656957906277
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_12: -610518293112761887
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_13: -3501431847448238917
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_14: -7375873305757965655
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_15: -517644922382679045
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_16: 1015104148623170256
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_17: 8816736899487663406
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_18: 7249772215666642849
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_19: -1905980142804333344
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_2: -2362526346039085074
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_20: 4390422972649775638
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_21: 5293928908926726016
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_22: 547176282755912556
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_23: -1123876824410751116
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_24: 3768324464134736978
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_25: -1929801306475074444
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_26: -4943843690374684117
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_27: -2993354744643231215
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_28: 1473658621176852507
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_29: -749121685159367376
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_3: 4195585749302418407
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_30: 1627290367557488149
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_31: -1408911844792227214
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_32: -6038994195031741354
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_33: -3309553716015340227
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_34: 7350621426425418912
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_35: -3655452351899464679
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_36: -7897242841766090810
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_37: -496381465559435057
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_38: -8618813072817974624
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_39: -1133238707971018520
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_4: -3331064028716244732
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_40: 3936007494258286222
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_41: -8727995267547877997
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_42: 8148663957512501451
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_43: 2476642635247325984
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_44: 6444898891473133617
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_45: 7586541986538559071
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_46: -7849083720038297568
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_5: 3477616037824943526
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_6: 8019948600468600256
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_7: -6307336314598741796
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_8: 2314133370203144348
+      pngtree-cash-paper-banknote-money-cash-heap-pile-and-stack-money-png-image_15075383_9: -5879097660451260048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
