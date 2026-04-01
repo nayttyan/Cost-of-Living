@@ -18,6 +18,7 @@ public class StoryManager : MonoBehaviour
     public StatUI healthUI;
     public StatUI energyUI;
     public MoneyUI moneyUI;
+    public PlayerFaceUI playerFaceUI;
 
     public StoryNode[] nodes;
 
@@ -32,6 +33,22 @@ public class StoryManager : MonoBehaviour
     public Image calendarImage;
     public Button nextDayButton;
 
+    int GetStatValue(StatType statType)
+    {
+        if (statType == StatType.Happiness)
+            return stats.happiness;
+
+        if (statType == StatType.Health)
+            return stats.health;
+
+        if (statType == StatType.Energy)
+            return stats.energy;
+
+        if (statType == StatType.Money)
+            return stats.money;
+
+        return 0;
+    }
     void Start()
     {
         choicesPanel.SetActive(false);
@@ -39,6 +56,8 @@ public class StoryManager : MonoBehaviour
 
         nextButton.onClick.AddListener(Next);
         nextDayButton.onClick.AddListener(ContinueFromCalendar);
+
+        playerFaceUI.UpdateFace();
     }
 
     void ShowNode(int index)
@@ -57,7 +76,38 @@ public class StoryManager : MonoBehaviour
             HideCalendar();
         }
 
-        
+        if (nodes[index].hasCondition)
+        {
+            if (StoryVariables.instance.GetBool(nodes[index].conditionFlag))
+            {
+                ShowNode(nodes[index].trueNodeIndex);
+            }
+            else
+            {
+                ShowNode(nodes[index].falseNodeIndex);
+            }
+
+            return;
+        }
+        if (nodes[index].hasStatCondition)
+        {
+            int value = GetStatValue(nodes[index].statType);
+
+            if (value <= nodes[index].lowValue)
+            {
+                ShowNode(nodes[index].lowNodeIndex);
+            }
+            else if (value >= nodes[index].highValue)
+            {
+                ShowNode(nodes[index].highNodeIndex);
+            }
+            else
+            {
+                ShowNode(nodes[index].midNodeIndex);
+            }
+
+            return;
+        }
 
         choicesPanel.SetActive(false);
         nextButton.gameObject.SetActive(true);
@@ -194,15 +244,49 @@ public class StoryManager : MonoBehaviour
     // вызывается карточкой после выбора
     public void ApplyChoice(StoryChoice choice)
     {
+        if (choice.setFlag != null && choice.setFlag != "")
+        {
+            StoryVariables.instance.SetBool(choice.setFlag, choice.setFlagValue);
+        }
+
+        if (choice.addIntKey != null && choice.addIntKey != "")
+        {
+            StoryVariables.instance.AddInt(choice.addIntKey, choice.addIntValue);
+        }
         stats.AddHappiness(choice.happinessChange);
         stats.AddHealth(choice.healthChange);
         stats.AddEnergy(choice.energyChange);
-        stats.AddMoney(choice.moneyChange);
+        if (choice.moneyRange != null && choice.moneyRange != "")
+        {
+            string[] parts = choice.moneyRange.Split('-');
+
+            if (parts.Length == 2)
+            {
+                int a = int.Parse(parts[0].Trim());
+                int b = int.Parse(parts[1].Trim());
+
+                int min = Mathf.Min(a, b);
+                int max = Mathf.Max(a, b);
+
+                int value = Random.Range(min, max + 1);
+                stats.AddMoney(value);
+            }
+            else if (parts.Length == 1)
+            {
+                int value = int.Parse(parts[0].Trim());
+                stats.AddMoney(value);
+            }
+        }
+        else
+        {
+            stats.AddMoney(choice.moneyChange);
+        }
 
         happinessUI.UpdateUI();
         healthUI.UpdateUI();
         energyUI.UpdateUI();
         moneyUI.UpdateUI();
+        playerFaceUI.UpdateFace();
 
         ShowNode(choice.nextNodeIndex);
     }

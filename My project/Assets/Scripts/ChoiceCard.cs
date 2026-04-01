@@ -11,6 +11,7 @@ public class ChoiceCard : MonoBehaviour
     public GameObject back;
 
     public TMP_Text titleText;   // на фронте
+    public Image frontCardImage;
     public TMP_Text resultText;  // на бэке
 
     StoryChoice choice;
@@ -29,6 +30,16 @@ public class ChoiceCard : MonoBehaviour
         if (back != null) back.SetActive(false);
 
         if (titleText != null) titleText.text = choice.title;
+
+        if (frontCardImage != null)
+        {
+            frontCardImage.sprite = choice.frontImage;
+
+            if (choice.frontImage != null)
+                frontCardImage.gameObject.SetActive(true);
+            else
+                frontCardImage.gameObject.SetActive(false);
+        }
 
         if (resultText != null)
         {
@@ -58,11 +69,16 @@ public class ChoiceCard : MonoBehaviour
                     result += "Energy " + e + "\n";
                 }
 
-                if (choice.moneyChange != 0)
+                if (choice.moneyRange != null && choice.moneyRange != "")
+                {
+                    result += choice.moneyRange + "$";
+                }
+                else if (choice.moneyChange != 0)
                 {
                     string m = (choice.moneyChange > 0 ? "+" : "") + choice.moneyChange;
                     result += m + "$";
                 }
+
 
                 resultText.text = result;
             }
